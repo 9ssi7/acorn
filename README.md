@@ -5,4 +5,4 @@
 
 ## About
 
-provides gophers or aspiring gophers with some sample code about go
+provides some sample code for gophers
